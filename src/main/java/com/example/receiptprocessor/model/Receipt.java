@@ -9,7 +9,7 @@ public class Receipt {
     private List<Item> items;
     private String total;
 
-    // Getters and Setters
+
     public String getRetailer() {
         return retailer;
     }

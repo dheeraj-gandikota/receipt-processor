@@ -4,7 +4,7 @@ public class Item {
     private String shortDescription;
     private String price;
 
-    // Getters and Setters
+
     public String getShortDescription() {
         return shortDescription;
     }
